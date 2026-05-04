@@ -23,8 +23,8 @@ export function HomePage() {
       <section className="panel">
         <h2>Now live: Gridd</h2>
         <p>
-          Gridd is the first product in the Hillsboro Row portfolio and is
-          built to help users plan clearly and execute consistently.
+          'Gridd is the first product in the Hillsboro Row portfolio, built to give players 
+          a clean and focused Sudoku experience.'
         </p>
         <Link to="/apps/gridd" className="text-link">
           View Gridd details

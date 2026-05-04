@@ -13,7 +13,7 @@ export function AboutPage() {
       </p>
       <p>
         This site serves as the central home for current and future Hillsboro
-        Street applications.
+        Row applications.
       </p>
     </section>
   )

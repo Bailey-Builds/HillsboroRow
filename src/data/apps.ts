@@ -32,14 +32,14 @@ export const apps: AppMetadata[] = [
   {
     slug: 'gridd',
     name: 'Gridd',
-    tagline: 'Plan clearly. Execute consistently.',
+    tagline: 'A clean, focused Sudoku experience.',
     shortDescription:
-      'Gridd is a focused productivity app for structuring tasks and moving through work with clarity.',
+      'Gridd is a simple Sudoku app designed for focused play, clear thinking, and a calm puzzle-solving experience.',
     longDescription:
-      'Gridd helps teams and individuals break work into practical blocks, stay aligned on priorities, and maintain momentum without unnecessary complexity.',
-    statusNote: 'Status: Active development',
+      'Gridd provides a distraction-light environment for enjoying Sudoku, with an intuitive interface that supports focus, logical thinking, and steady problem solving. It is designed for players who want a clean experience without noise, clutter, or unnecessary complexity.',
+    statusNote: 'Status: Live on the App Store',
     platformNote:
-      'Platform: Available on the Apple App Store today, with expansion planned over time.',
+      'Platform: Available now on the Apple App Store.',
     appStoreUrl: 'https://apps.apple.com/app/id6748417271',
     links: [
       { label: 'Privacy Policy', to: '/apps/gridd/privacy' },
@@ -57,27 +57,27 @@ export const apps: AppMetadata[] = [
           {
             heading: 'Information We May Collect',
             paragraphs: [
-              'Gridd may collect information you provide directly, such as account details, profile information, and support messages.',
-              'Gridd may also collect limited technical data like device, browser, and usage diagnostics to maintain reliability and improve the experience.',
+              'Gridd may collect information you provide directly, such as preferences and support inquiries.',
+              'Limited technical data such as device type and usage diagnostics may also be collected to maintain reliability and improve the experience.',
             ],
           },
           {
             heading: 'How Information Is Used',
             paragraphs: [
-              'Information may be used to provide core functionality, improve product performance, respond to support requests, and keep the service secure.',
+              'Information may be used to support core functionality, improve performance, respond to support requests, and maintain service security.',
             ],
           },
           {
             heading: 'Sharing and Retention',
             paragraphs: [
-              'Gridd does not sell personal information. Data may be shared with service providers that help operate the app or when required by law.',
-              'Information is retained only as long as needed for product operation, security, and legal obligations.',
+              'Gridd does not sell personal information. Data may be shared with trusted service providers that support app operations or when required by law.',
+              'Information is retained only as long as necessary for functionality, security, and legal compliance.',
             ],
           },
           {
             heading: 'Contact',
             paragraphs: [
-              'Questions about this policy can be directed to Hillsboro Row LLC through the contact method made available by Gridd.',
+              'Questions about this policy can be directed to Hillsboro Row LLC through the contact method provided within Gridd.',
             ],
           },
         ],
@@ -92,31 +92,31 @@ export const apps: AppMetadata[] = [
           {
             heading: 'Use of Gridd',
             paragraphs: [
-              'You agree to use Gridd lawfully and in a way that does not interfere with service availability, performance, or security.',
+              'You agree to use Gridd in a lawful manner that does not disrupt or interfere with the service.',
             ],
           },
           {
             heading: 'Intellectual Property',
             paragraphs: [
-              'Gridd, including software, branding, and content, is owned by Hillsboro Row LLC or its licensors unless stated otherwise.',
+              'Gridd, including its software, design, and branding, is owned by Hillsboro Row LLC or its licensors unless otherwise stated.',
             ],
           },
           {
             heading: 'Service Availability',
             paragraphs: [
-              'Gridd is provided on an as-is and as-available basis. Features may change as the product evolves.',
+              'Gridd is provided on an as-is and as-available basis. Features may evolve over time.',
             ],
           },
           {
             heading: 'Limitation of Liability',
             paragraphs: [
-              'To the maximum extent allowed by law, Hillsboro Row LLC is not liable for indirect, incidental, or consequential damages resulting from use of Gridd.',
+              'To the maximum extent permitted by law, Hillsboro Row LLC is not liable for indirect or consequential damages arising from use of Gridd.',
             ],
           },
           {
             heading: 'Updates to Terms',
             paragraphs: [
-              'These Terms may be updated periodically. Continued use of Gridd after updates indicates acceptance of revised Terms.',
+              'These Terms may be updated periodically. Continued use indicates acceptance of the revised Terms.',
             ],
           },
         ],
