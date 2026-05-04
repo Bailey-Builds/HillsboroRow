@@ -7,7 +7,7 @@ export function HomePage() {
         <p className="eyebrow">Hillsboro Row LLC</p>
         <h1>Building practical software, digital tools, and applications.</h1>
         <p className="lead">
-          Hillsboro Street develops focused products designed to solve real
+          Hillsboro Row develops focused products designed to solve real
           workflow and productivity challenges.
         </p>
         <div className="hero-actions">
@@ -15,7 +15,7 @@ export function HomePage() {
             Explore Apps
           </Link>
           <Link to="/about" className="button-link button-link-ghost">
-            About Hillsboro Street
+            About Hillsboro Row
           </Link>
         </div>
       </section>
@@ -23,7 +23,7 @@ export function HomePage() {
       <section className="panel">
         <h2>Now live: Gridd</h2>
         <p>
-          Gridd is the first product in the Hillsboro Street portfolio and is
+          Gridd is the first product in the Hillsboro Row portfolio and is
           built to help users plan clearly and execute consistently.
         </p>
         <Link to="/apps/gridd" className="text-link">

@@ -6,7 +6,7 @@ export function AppsPage() {
     <section className="page-content">
       <div className="section-header">
         <p className="eyebrow">Apps</p>
-        <h1>Hillsboro Street app portfolio</h1>
+        <h1>Hillsboro Row app portfolio</h1>
         <p className="lead">
           Current applications are listed below. This page is data-driven and
           ready to scale as more apps are added.
