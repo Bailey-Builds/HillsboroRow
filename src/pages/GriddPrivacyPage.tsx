@@ -12,7 +12,7 @@ export function GriddPrivacyPage() {
 
         <section className="policy-section">
           <h2>Introduction</h2>
-          <p>Hillsboro LLC ("we," "our," or "us") operates the Gridd mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.</p>
+          <p>Hillsboro Row LLC ("we," "our," or "us") operates the Gridd mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.</p>
           <p>By using Gridd, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with our policies and practices, do not download, register with, or use this App.</p>
         </section>
 
@@ -183,7 +183,7 @@ export function GriddPrivacyPage() {
           <h2>Contact Information</h2>
           <p>If you have any questions about this Privacy Policy, please contact us:</p>
           <div className="contact-info">
-            <p><strong>Hillsboro LLC</strong><br />
+            <p><strong>Hillsboro Row LLC</strong><br />
             Email: legal@hillsborostreet.co<br />
             Website: <a href="https://hillsborostreet.co" target="_blank" rel="noopener noreferrer">https://hillsborostreet.co</a><br />
             Address: 4030 Wake Forest Road, STE 349, Raleigh, NC 27609, USA</p>

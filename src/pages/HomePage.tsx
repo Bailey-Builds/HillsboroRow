@@ -4,7 +4,7 @@ export function HomePage() {
   return (
     <>
       <section className="hero">
-        <p className="eyebrow">Hillsboro Street LLC</p>
+        <p className="eyebrow">Hillsboro Row LLC</p>
         <h1>Building practical software, digital tools, and applications.</h1>
         <p className="lead">
           Hillsboro Street develops focused products designed to solve real

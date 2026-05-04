@@ -51,7 +51,7 @@ export const apps: AppMetadata[] = [
         effectiveDate: 'March 7, 2026',
         intro: [
           'This Privacy Policy explains how Gridd may collect, use, and protect information when you use the app and related services.',
-          'Hillsboro Street LLC maintains Gridd and is committed to handling data responsibly.',
+          'Hillsboro Row LLC maintains Gridd and is committed to handling data responsibly.',
         ],
         sections: [
           {
@@ -77,7 +77,7 @@ export const apps: AppMetadata[] = [
           {
             heading: 'Contact',
             paragraphs: [
-              'Questions about this policy can be directed to Hillsboro Street LLC through the contact method made available by Gridd.',
+              'Questions about this policy can be directed to Hillsboro Row LLC through the contact method made available by Gridd.',
             ],
           },
         ],
@@ -86,7 +86,7 @@ export const apps: AppMetadata[] = [
         title: 'Gridd Terms of Service',
         effectiveDate: 'March 7, 2026',
         intro: [
-          'These Terms govern your use of Gridd and related services provided by Hillsboro Street LLC.',
+          'These Terms govern your use of Gridd and related services provided by Hillsboro Row LLC.',
         ],
         sections: [
           {
@@ -98,7 +98,7 @@ export const apps: AppMetadata[] = [
           {
             heading: 'Intellectual Property',
             paragraphs: [
-              'Gridd, including software, branding, and content, is owned by Hillsboro Street LLC or its licensors unless stated otherwise.',
+              'Gridd, including software, branding, and content, is owned by Hillsboro Row LLC or its licensors unless stated otherwise.',
             ],
           },
           {
@@ -110,7 +110,7 @@ export const apps: AppMetadata[] = [
           {
             heading: 'Limitation of Liability',
             paragraphs: [
-              'To the maximum extent allowed by law, Hillsboro Street LLC is not liable for indirect, incidental, or consequential damages resulting from use of Gridd.',
+              'To the maximum extent allowed by law, Hillsboro Row LLC is not liable for indirect, incidental, or consequential damages resulting from use of Gridd.',
             ],
           },
           {

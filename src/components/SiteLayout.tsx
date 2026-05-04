@@ -11,10 +11,10 @@ export function SiteLayout() {
             {/* Replace this public logo file with your final brand mark when ready. */}
             <img
               src={logoSrc}
-              alt="Hillsboro LLC logo"
+              alt="Hillsboro Row LLC logo"
               className="brand-logo"
             />
-            <span className="brand-text">Hillsboro LLC</span>
+            <span className="brand-text">Hillsboro Row LLC</span>
           </Link>
 
           <nav className="top-nav" aria-label="Primary">

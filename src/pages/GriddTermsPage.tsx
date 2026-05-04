@@ -12,7 +12,7 @@ export function GriddTermsPage() {
 
         <section className="terms-section">
           <h2>Agreement to Terms</h2>
-          <p>These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Hillsboro LLC ("Company," "we," "us," or "our") regarding your use of the Gridd mobile application (the "App").</p>
+          <p>These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Hillsboro Row LLC ("Company," "we," "us," or "our") regarding your use of the Gridd mobile application (the "App").</p>
           <p>By downloading, installing, or using our App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use our App.</p>
         </section>
 
@@ -110,7 +110,7 @@ export function GriddTermsPage() {
           
           <h3>Our Rights</h3>
           <ul>
-            <li>The App and all its content, features, and functionality are owned by Hillsboro LLC</li>
+            <li>The App and all its content, features, and functionality are owned by Hillsboro Row LLC</li>
             <li>All trademarks, logos, and service marks are our property or our licensors'</li>
             <li>The App is protected by copyright, trademark, and other intellectual property laws</li>
           </ul>
@@ -149,7 +149,7 @@ export function GriddTermsPage() {
           <p className="legal-text">THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</p>
 
           <h3>Limitation of Liability</h3>
-          <p className="legal-text">TO THE MAXIMUM EXTENT PERMITTED BY LAW, HILLSBORO LLC SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION.</p>
+          <p className="legal-text">TO THE MAXIMUM EXTENT PERMITTED BY LAW, Hillsboro Row LLC SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION.</p>
         </section>
 
         <section className="terms-section">
@@ -243,7 +243,7 @@ export function GriddTermsPage() {
           <h2>Contact Information</h2>
           <p>If you have any questions about these Terms of Service, please contact us:</p>
           <div className="contact-info">
-            <p><strong>Hillsboro LLC</strong><br />
+            <p><strong>Hillsboro Row LLC</strong><br />
             Email: legal@hillsborostreet.co<br />
             Website: <a href="https://hillsborostreet.co" target="_blank" rel="noopener noreferrer">https://hillsborostreet.co</a><br />
             Address: 4030 Wake Forest Road, STE 349, Raleigh, NC 27609, USA<br />
@@ -258,7 +258,7 @@ export function GriddTermsPage() {
 
         <section className="terms-section">
           <h2>Entire Agreement</h2>
-          <p>These Terms, together with our Privacy Policy, constitute the entire agreement between you and Hillsboro LLC regarding the use of the App and supersede all prior agreements and understandings.</p>
+          <p>These Terms, together with our Privacy Policy, constitute the entire agreement between you and Hillsboro Row LLC regarding the use of the App and supersede all prior agreements and understandings.</p>
         </section>
 
         <hr className="terms-divider" />

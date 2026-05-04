@@ -2,9 +2,9 @@ export function AboutPage() {
   return (
     <section className="panel page-content">
       <p className="eyebrow">About</p>
-      <h1>Hillsboro Street LLC</h1>
+      <h1>Hillsboro Row LLC</h1>
       <p>
-        Hillsboro Street LLC is a lightweight parent company focused on building
+        Hillsboro Row LLC is a lightweight parent company focused on building
         modern software products, digital tools, and applications.
       </p>
       <p>
